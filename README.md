@@ -19,3 +19,6 @@ Mars
 ```
 sphereGeometry.firstMaterial?.diffuse.contents = UIColor.redColor()
 ```
+
+Inspire de:
+https://www.weheartswift.com/introduction-scenekit-part-1/
